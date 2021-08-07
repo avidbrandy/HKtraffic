@@ -5,6 +5,13 @@ This project uses a Postgresql database and Django. There is a config.ini file t
 
 Functions are contained in hktraffic/hktraffic/scraper.py
 
+
+## CSV File
+
+The HKtraffic.csv file is a full table of all data from the website. I have set it to auto-update this respository daily. Feel free to pull the data from here any time. 
+
+For instructions to setup a local copy, see below:
+
  
 ## Django & PostgreSQL Database
 For help setting up Django with PostgreSQL, this guide can be followed even if you have little knowledge:
