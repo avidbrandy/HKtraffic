@@ -10,6 +10,15 @@ Functions are contained in hktraffic/hktraffic/scraper.py
 
 The HKtraffic.csv file is a full table of all data from the website. I have set it to auto-update this respository daily. Feel free to pull the data from here any time. 
 
+
+Sample CSV data:
+
+date|control_point|arrivals_residents|arrivals_chinavisitors|arrivals_othervisitors|arrivals_total|departures_residents|departures_chinavisitors|departures_othervisitors|departures_total|weekday
+ --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+2020-01-24|Lo Wu|26340|7383|429|34152|72074|6231|413|78718|Friday
+2020-01-24|Lok Ma Chau Spur Line|16750|4979|196|21925|32215|3766|167|36148|Friday
+
+
 For instructions to setup a local copy, see below:
 
  
