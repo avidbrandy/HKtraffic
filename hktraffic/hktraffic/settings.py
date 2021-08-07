@@ -40,7 +40,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'hktraffic.urls'
+#ROOT_URLCONF = 'hktraffic.urls'
 
 TEMPLATES = [
     {
