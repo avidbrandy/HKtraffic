@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from django.db import IntegrityError
 from django.utils import timezone
 
+import os
 import requests
 
 
@@ -12,12 +13,15 @@ BASE_URL = 'https://www.immd.gov.hk'
 HOME_URL = '/eng/message_from_us/stat_menu.html'
 
 
-def convert_csv():
+def convert_csv(filepath=''):
+
+    if not filepath:
+        filepath = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
     headers = ['date', 'control_point', 'arrivals_residents', 'arrivals_chinavisitors', 'arrivals_othervisitors', 'arrivals_total', 'departures_residents', 'departures_chinavisitors', 'departures_othervisitors', 'departures_total', 'weekday']
     headers = ','.join(headers)
     traffic = Traffic.objects.all()
-    with open('HKtraffic.csv', 'w') as f:
+    with open(f'{filepath}/HKtraffic.csv', 'w') as f:
         f.write(headers)
         f.write('\n')
         for t in traffic:
