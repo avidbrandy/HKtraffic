@@ -58,7 +58,7 @@ TEMPLATES = [
     },
 ]
 
-#WSGI_APPLICATION = 'HKtraffic.wsgi.application'
+#WSGI_APPLICATION = 'hktraffic.wsgi.application'
 
 USE_SQLITE_DB = cfg.getboolean('app', 'use_sqlite_db', fallback=False)
 
