@@ -1,5 +1,5 @@
 # HKtraffic
-This repository if for scraping the data posted to https://www.immd.gov.hk daily regarding travelers entering and leaving Hong Kong. 
+This repository is for scraping the data posted to https://www.immd.gov.hk daily regarding travelers entering and leaving Hong Kong. 
 
 This project uses a Postgresql database and Django. There is a config.ini file to connect to the database, as well as to utilize proxies if desired.
 
