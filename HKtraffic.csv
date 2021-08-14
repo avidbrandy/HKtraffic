@@ -9161,6 +9161,7 @@ date,control_point,arrivals_residents,arrivals_chinavisitors,arrivals_othervisit
 2021-07-28,Hong Kong-Zhuhai-Macao Bridge,149,7,2,158,324,15,1,340,Wednesday
 2021-07-28,Lok Ma Chau,0,0,0,0,0,0,0,0,Wednesday
 2021-07-28,Man Kam To,0,0,0,0,0,0,0,0,Wednesday
+2021-08-13,Total,4320,204,37,4561,4203,114,35,4352,Friday
 2021-07-28,Shenzhen Bay,1149,98,5,1252,933,125,1,1059,Wednesday
 2021-07-28,China Ferry Terminal,0,0,0,0,0,0,0,0,Wednesday
 2021-07-28,Harbour Control,0,0,0,0,0,0,0,0,Wednesday
@@ -9423,3 +9424,19 @@ date,control_point,arrivals_residents,arrivals_chinavisitors,arrivals_othervisit
 2021-08-11,Macau Ferry Terminal,0,0,0,0,0,0,0,0,Wednesday
 2021-08-11,Tuen Mun Ferry Terminal,0,0,0,0,0,0,0,0,Wednesday
 2021-08-11,Total,4250,192,36,4478,3479,121,22,3622,Wednesday
+2021-08-13,Airport,953,6,28,987,1697,19,31,1747,Friday
+2021-08-13,Express Rail Link West Kowloon,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Hung Hom,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Lo Wu,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Lok Ma Chau Spur Line,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Heung Yuen Wai,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Hong Kong-Zhuhai-Macao Bridge,148,4,9,161,171,6,1,178,Friday
+2021-08-13,Lok Ma Chau,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Man Kam To,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Sha Tau Kok,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Shenzhen Bay,2041,194,0,2235,937,89,3,1029,Friday
+2021-08-13,China Ferry Terminal,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Harbour Control,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Kai Tak Cruise Terminal,1178,0,0,1178,1398,0,0,1398,Friday
+2021-08-13,Macau Ferry Terminal,0,0,0,0,0,0,0,0,Friday
+2021-08-13,Tuen Mun Ferry Terminal,0,0,0,0,0,0,0,0,Friday
