@@ -9882,3 +9882,37 @@ date,control_point,arrivals_residents,arrivals_chinavisitors,arrivals_othervisit
 2021-09-09,Macau Ferry Terminal,0,0,0,0,0,0,0,0,Thursday
 2021-09-09,Tuen Mun Ferry Terminal,0,0,0,0,0,0,0,0,Thursday
 2021-09-09,Total,1760,120,55,1935,2119,96,31,2246,Thursday
+2021-09-11,Airport,805,13,32,850,1670,27,29,1726,Saturday
+2021-09-11,Express Rail Link West Kowloon,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Hung Hom,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Lo Wu,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Lok Ma Chau Spur Line,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Heung Yuen Wai,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Hong Kong-Zhuhai-Macao Bridge,101,8,4,113,121,6,3,130,Saturday
+2021-09-11,Lok Ma Chau,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Man Kam To,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Sha Tau Kok,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Shenzhen Bay,1178,121,3,1302,709,84,8,801,Saturday
+2021-09-11,China Ferry Terminal,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Harbour Control,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Kai Tak Cruise Terminal,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Macau Ferry Terminal,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Tuen Mun Ferry Terminal,0,0,0,0,0,0,0,0,Saturday
+2021-09-11,Total,2084,142,39,2265,2500,117,40,2657,Saturday
+2021-09-10,Airport,932,8,60,1000,1586,12,49,1647,Friday
+2021-09-10,Express Rail Link West Kowloon,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Hung Hom,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Lo Wu,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Lok Ma Chau Spur Line,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Heung Yuen Wai,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Hong Kong-Zhuhai-Macao Bridge,151,4,1,156,214,13,3,230,Friday
+2021-09-10,Lok Ma Chau,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Man Kam To,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Sha Tau Kok,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Shenzhen Bay,1247,120,0,1367,726,86,6,818,Friday
+2021-09-10,China Ferry Terminal,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Harbour Control,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Kai Tak Cruise Terminal,1308,0,0,1308,1471,0,0,1471,Friday
+2021-09-10,Macau Ferry Terminal,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Tuen Mun Ferry Terminal,0,0,0,0,0,0,0,0,Friday
+2021-09-10,Total,3638,132,61,3831,3997,111,58,4166,Friday
